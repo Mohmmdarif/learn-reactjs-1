@@ -1,0 +1,9 @@
+.text {
+  color: greenyellow;
+  font-size: xx-large;
+  font-style: italic;
+  font-stretch: expanded;
+  font-display: block;
+  text-shadow: 2px 1px 2px black;
+  text-overflow: ellipsis;
+}

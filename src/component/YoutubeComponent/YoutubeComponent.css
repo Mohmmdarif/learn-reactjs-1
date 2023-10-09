@@ -1,0 +1,48 @@
+.container {
+  display: inline-flex;
+  /* flex-wrap: wrap; */
+  justify-content: center;
+  align-items: center;
+}
+
+.youtube-wrapper {
+  margin: 10px;
+  width: 250px;
+}
+
+.img-thumb {
+  position: relative;
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+img {
+  border-radius: 10px 10px 0 0;
+}
+
+.time {
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 210px;
+  padding: 2px 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 12px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.title {
+  margin-top: 3px;
+  padding-left: 2px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 14px;
+  margin-top: 0px;
+  padding-left: 2px;
+  color: #979494;
+  font-weight: 500;
+}
